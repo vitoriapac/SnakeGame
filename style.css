@@ -1,0 +1,46 @@
+:root {
+  --green: #00ff7f;
+  --dark: #141414;
+  --light: #dcdcdc;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--dark);
+
+  height: 95vh;
+  width: 95;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+/* HEADER */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+header .logo {
+  padding-bottom: 1rem;
+  color: var(--green);
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+}
+
+header .text {
+  padding-bottom: 1rem;
+  color: var(--light);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
