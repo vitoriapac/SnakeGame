@@ -18,4 +18,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O projeto é recriar o jogo da cobrinha, usando apenas JavaScript para uma página Web.
 Fiz algumas modificações com o estilo e cores para deixar o jogo mais personalizado.
 
+<a href="https://vitoriapac.github.io/SnakeGame/">https://vitoriapac.github.io/SnakeGame/</a>
+
 <img src="ScreenshotSnake.png" />
